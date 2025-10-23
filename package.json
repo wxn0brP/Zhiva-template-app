@@ -1,0 +1,26 @@
+{
+	"name": "@wxn0brp/zhiva-template-app",
+	"version": "0.0.1",
+	"main": "src/index.ts",
+	"description": "Zhiva Template App",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/wxn0brP/Zhiva-template-app.git"
+	},
+	"homepage": "https://github.com/wxn0brP/Zhiva-template-app",
+	"author": "wxn0brP",
+	"license": "MIT",
+	"type": "module",
+	"scripts": {
+		"build": "bun build src/browser.ts --minify --outfile dist/index.js --target browser -e @wxn0brp/vql-client",
+		"start": "bun run src/index.ts"
+	},
+	"dependencies": {
+		"@wxn0brp/flanker-ui": "^0.4.3"
+	},
+	"devDependencies": {
+		"@types/bun": "*",
+		"@wxn0brp/zhiva-base-lib": "github:wxn0brP/Zhiva-base-lib",
+		"typescript": "*"
+	}
+}
