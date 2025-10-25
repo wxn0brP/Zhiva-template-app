@@ -1,5 +1,6 @@
 {
     "icon": "public/favicon.png",
+    "win_icon": "public/app.ico",
     "name": "Zhiva Template",
     "description": "ZhiVa Template",
     "version": "0.0.1",
