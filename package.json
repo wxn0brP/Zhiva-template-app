@@ -19,6 +19,6 @@
 		"@types/bun": "*",
 		"@wxn0brp/flanker-ui": "^0.4.3",
 		"@wxn0brp/zhiva-base-lib": "github:wxn0brP/Zhiva-base-lib",
-		"typescript": "*"
+		"typescript": "^5"
 	}
 }
