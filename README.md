@@ -1,6 +1,6 @@
 # Zhiva Template Repository
 
-[![Install via Zhiva](https://img.shields.io/badge/Zhiva-install-blue)](zhiva://install/wxn0brP/Zhiva-template-app)
+[![Install via Zhiva](https://img.shields.io/badge/Zhiva-install-blue)](https://wxn0brp.github.io/Zhiva-page/i#app=wxn0brP/Zhiva-template-app)
 
 Simple template for Zhiva.
 
