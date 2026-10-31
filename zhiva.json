@@ -1,8 +1,8 @@
 {
     "icon": "default",
     "win_icon": "default",
-    "name": "Zhiva Template",
-    "description": "Zhiva Template",
+    "name": "[YOUR APP NAME]",
+    "description": "[YOUR APP NAME]",
     "version": "0.0.1",
-    "author": "wxn0brP"
+    "author": "[YOUR NAME]"
 }

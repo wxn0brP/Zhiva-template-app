@@ -4,21 +4,17 @@
 
 Simple template for Zhiva.
 
-## Setup:
+## Setup
 
 ```bash
-git clone https://github.com/wxn0brP/Zhiva-template-app.git
-cd Zhiva-template-app
-rm -rf .git
-git init
-bun install
-bun run build
-bun run src/index.ts
+zhiva create my-app
+cd my-app
+zhiva start .
 ```
 
-Enjoy! 💜
+`zhiva create` also fills in the author, application name and year in `package.json`, `zhiva.json` and `LICENSE`, and points the "Install via Zhiva" badge at the new repository. If you use this repository directly, replace those placeholders by hand.
 
-## Links:
+## Links
 
 [Zhiva](https://github.com/wxn0brP/Zhiva)
 
